@@ -1,0 +1,6 @@
+{
+  "name": "Dentist Appointment Wizard",
+  "description": "A responsive 4-step wizard for scheduling dentist appointments with local data persistence and dynamic validation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
